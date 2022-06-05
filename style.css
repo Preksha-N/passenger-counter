@@ -1,0 +1,29 @@
+button{
+    border: none;
+    padding: 15px;
+    color: white;
+    cursor: pointer;
+    border-radius: 12px;
+    box-shadow: 20px;
+    width: 200px;
+}
+#increment-btn{
+    background: darkred;
+}
+#save-btn{
+    margin-top: 2rem;
+    background: darkgreen;
+}
+p{
+    font-weight: bold;
+    font-size: 2rem;
+    color: blue
+}
+body{
+    background: url('stationImg.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: rgb(194, 0, 161);
+    background-attachment: scroll;
+}
+
